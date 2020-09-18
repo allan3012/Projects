@@ -1,0 +1,15 @@
+Categoria de Hogar
+
+
+MUEBLE - cantidad = 45.0
+CORTINAS  - cantidad = 20.0
+SILLÓN - cantidad = 102.0
+VENTANA - cantidad = 16.0
+REJAS - cantidad = 28.0
+ALMOHADA - cantidad = 48.0
+ESPEJO - cantidad = 60.0
+PUERTA  - cantidad = 78.0
+MESA - cantidad = 49.0
+CLOSET - cantidad = 52.0
+CAMA - cantidad = 105.0
+SILLA - cantidad = 145.0

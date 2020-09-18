@@ -1,0 +1,19 @@
+Categoria de Tecnologia
+
+
+TABLET - cantidad = 44.0
+MIEL - cantidad = 3845.0
+RADIO - cantidad = 90.0
+LAPTOP - cantidad = 66.0
+COCINA  - cantidad = 51.0
+TELEVISION - cantidad = 130.0
+TELEVISION - cantidad = 15.0
+COMPUTADORA - cantidad = 35.0
+CELULAR - cantidad = 69.0
+TOSTADORA - cantidad = 139.0
+CELULAR - cantidad = 140.0
+PLAY STATION - cantidad = 72.0
+MICROONDAS - cantidad = 21.0
+COMPUTADORA - cantidad = 34.0
+LAVADORA - cantidad = 75.0
+SECADORA - cantidad = 113.0

@@ -1,0 +1,14 @@
+Categoria de HigienePersonal
+
+
+JABON DE MANOS  - cantidad = 2105.0
+PAPEL HIGIENICO - cantidad = 1594.0
+ESPONJA DE BAÑO - cantidad = 4121.0
+TOALLAS HUMEDAS - cantidad = 2984.0
+JABON CORPORAL - cantidad = 2480.0
+SHAMPOO - cantidad = 463.0
+TOALLA DE BAÑO - cantidad = 4736.0
+CEPILLO DE DIENTES - cantidad = 4131.0
+CEPILLO DE PARA EL PELO - cantidad = 1268.0
+RAZURADORA - cantidad = 2920.0
+PASTA DE DIENTES - cantidad = 3469.0

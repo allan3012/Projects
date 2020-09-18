@@ -1,0 +1,14 @@
+Categoria de Consumo
+
+
+FRIJOLES - cantidad = 4285.0
+LEGUMBRES - cantidad = 2110.0
+PIÑA - cantidad = 1902.0
+JUGO - cantidad = 1912.0
+PAN - cantidad = 4554.0
+CEREAL - cantidad = 1120.0
+ARROZ  - cantidad = 828.0
+YOGURT - cantidad = 1618.0
+LIMONES - cantidad = 612.0
+LECHE - cantidad = 123.0
+MANZANA - cantidad = 965.0

@@ -1,0 +1,4 @@
+# de Empleados menos No identificados= 33 Promedio= 147698
+La suma de todos los salirios es= 4874059
+El salario menor es de CAMILA
+El salario mayor es de=  CAMILA
